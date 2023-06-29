@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #search-history {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .weather-card {
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  #current-weather {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #forecast {
+    text-align: center;
+  }
+  
+  .icon {
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin: 10px auto;
+  }
+  
+  .date {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .temp {
+    margin-bottom: 5px;
+  }
+  
+  .wind {
+    margin-bottom: 5px;
+  }
+  
+  .humidity {
+    margin-bottom: 5px;
+  }
+  
